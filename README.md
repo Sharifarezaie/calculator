@@ -14,9 +14,9 @@ This project is a simple calculator built using react. It supports basic arithme
 
 
 ## Demo 📸
-deployment link [(https://react-calculator-farwamuhibzada.netlify.app/)]
 
-![Random Quote Machine Screenshot](./src/assets/Capture.PNG)
+
+![Demo](demo.png)
 
 
 ## Technologies Used 💡
@@ -46,15 +46,30 @@ npm start
 Open your browser to http://localhost:3000 to view the app. You can click the on buttons  button to hear new  different sound.
 To use the calculator, simply enter numbers and select an operation (addition, subtraction, multiplication, division). You can clear the current calculation at any time by pressing the "Clear" button.
 
+
+## Installation 💻
+
+Folow these steps to set up the project on your local machine Ensure you have the following software installed on your machine
+
+# git clone 
+
+https://github.com/Sharifarezaie/calculator/
+
+## Usage 🎯
+
+you can access to my project through git clone -git clone the HTTP or My SSH code link from the repository you wat to clone
+
+# git clone
+
 # Acknowledgments
 - freeCodeCamp for the project idea
 
 
 
-## FarwaMuhibzada 👩‍💻
+## Author 👩‍💻 sharifa rezaie
 
-- LinkedIn: [(https://www.linkedin.com/in/farwamohibzada/)]
-- Email:  [(farwafarid2017@gmail.com)]
+- LinkedIn:https://www.linkedin.com/in/sharifa-rezaie-
+- Email: sharifashaida82@gmail.com
 
 
 # Contributing 🙏
