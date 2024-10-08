@@ -29,7 +29,7 @@ This project is a simple calculator built using react. It supports basic arithme
 
 1. Clone the repository:
 ```bash
-   git clone git@github.com:FarwaMuhibZada/build-calculator.git
+   git clone https://github.com/Sharifarezaie/calculator.git
    cd build-calculator
 ```
 2. Install dependencies:
